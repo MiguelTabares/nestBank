@@ -90,8 +90,8 @@ Import json to Postman
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Authors
-- **Miguel A. Tabares** [Go to GitHub](https://github.com/MiguelTabares)
-- **Hernan R. Pereira** [Go to GitHub](https://github.com/Misttes)
+- **Miguel A. Tabares** [Go to GitHub](https://github.com/MiguelTabares)  [Link to project repository] (https://github.com/MiguelTabares/nestBank)
+- **Hernan R. Pereira** [Go to GitHub](https://github.com/Misttes) [Link to project repository] (https://github.com/Misttes/Bank_Transfer_Challenge)
 
 ## License
 
